@@ -1,0 +1,11 @@
+/* h2 */
+h2 {
+    color:lightpink;
+}
+/* img */
+img {
+    margin: 0 auto;
+    display: block;
+    height: 300px;
+    width: 700px;
+}
